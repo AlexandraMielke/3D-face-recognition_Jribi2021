@@ -15,11 +15,16 @@ If you are planning to use the python wrapper, please install pybind11.
 
 The C++ Implementation can be run directly with the main() in /src/2021Jribi.cpp. Please change `filename` to the path pointing to your face STL File. The program will create the multipolar description and store it in `/out/levelcurves.csv`. As an example the program reloads the description just written and correlates it with the determined description. As a consequence the determined correlation must be 1 (or there was a mistake when writing / reading the file).
 
-To run and debug the file, change the settings in CMakeLists.txt to the C++ Implementation.
+To run and debug the file, change the settings in CMakeLists.txt to the C++ Implementation and run `cmake` or use your prefered IDE, e.g. VSCode.
 
 ### Python Implementation
 
-To create the shared library, change the settings in CMakeLists.txt to the Python Implementation. (That's probably what's uncommented right now).
+To create the shared library, change the settings in CMakeLists.txt to the Python Implementation. (That's probably what's uncommented right now). Then compile the Code again:
+```
+cd Release
+cmake -DCMAKE_BUILD_TYPE=Release ..
+make
+```
 
 Next you can import the library and use the function like this:
 
