@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/iges.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/iges.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/irit.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/irit.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/operations.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/operations.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/pugixml.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/pugixml.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/vtk.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/vtk.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/xml.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/InputOutput/xml.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/b_spline_basis_function.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/b_spline_basis_function.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/knot_vector.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/knot_vector.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/non_zero_degree_b_spline_basis_function.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/non_zero_degree_b_spline_basis_function.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/zero_degree_b_spline_basis_function.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/ParameterSpaces/zero_degree_b_spline_basis_function.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Splines/spline_item.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Splines/spline_item.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Utilities/math_operations.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Utilities/math_operations.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Utilities/string_operations.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Utilities/string_operations.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Utilities/system_operations.cpp.o"
+  "CMakeFiles/JribiDescription.dir/lib/SplineLib/Sources/Utilities/system_operations.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/src/2019Jribi.cpp.o"
+  "CMakeFiles/JribiDescription.dir/src/2019Jribi.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/src/LevelCurves.cpp.o"
+  "CMakeFiles/JribiDescription.dir/src/LevelCurves.cpp.o.d"
+  "CMakeFiles/JribiDescription.dir/src/pywrap.cpp.o"
+  "CMakeFiles/JribiDescription.dir/src/pywrap.cpp.o.d"
+  "JribiDescription.cpython-310-x86_64-linux-gnu.so"
+  "JribiDescription.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/JribiDescription.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
