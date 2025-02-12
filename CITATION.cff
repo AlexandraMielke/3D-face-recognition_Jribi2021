@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Mielke
+    given-names: Alexandra
+    orcid: https://orcid.org/0009-0003-1749-8220
+title: "3D Face Recognition: Implementation of Jribi's geodesic multipolar parameterization-based representation (2021)"
+version: 0.1.0-beta
+identifiers:
+  - type: doi
+    value: 
+date-released: 2025-02-12
